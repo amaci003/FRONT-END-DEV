@@ -1,0 +1,14 @@
+.caja{
+    background-color: pink;
+    width: 100%;
+    height: 50px;
+    position: fixed;
+    top: 0;
+    margin-bottom: 50px;
+
+}
+
+.texto{
+    background-color: brown;
+    margin-top: 55px;
+}
