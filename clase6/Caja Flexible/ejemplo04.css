@@ -1,0 +1,19 @@
+.contenedor{
+    background-color: grey;
+    display: flex;
+   /*  justify-content: flex-end; */
+   /* justify-content: center; */
+   /* justify-content: space-between; */
+/*    justify-content: space-around; no es estetico */
+justify-content: space-evenly; 
+/* ese ¨soluciona el space around¨ */
+}
+
+
+.item{
+    background-color: aqua;
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+    font-size: 25px;
+}

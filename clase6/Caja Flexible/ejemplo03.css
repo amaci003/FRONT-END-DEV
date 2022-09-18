@@ -1,0 +1,17 @@
+.contenedor{
+    background-color: grey;
+    display: inline-flex;
+    /* flex-direction: row-reverse; */
+    /*flex-direction: column; */
+    /* flex-direction: column-reverse; */
+    flex-wrap: wrap-reverse;
+}
+
+
+.item{
+    background-color: aqua;
+    width: 300px;
+    height: 100px;
+    margin: 20px;
+    font-size: 25px;
+}
