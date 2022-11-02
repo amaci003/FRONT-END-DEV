@@ -1,9 +1,8 @@
 const Header = (props) =>{
     return(
-    <div>
-        <p>Hola soy el Header</p>
-        <p>Lorem, aca iria un lorem q no funciona</p>
-        </div>
+    <header>
+        <h1>EJEMPLOS en REACT</h1>
+    </header>
 
     )
 }
